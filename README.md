@@ -1,0 +1,2 @@
+# lottie-animation
+LottieFilesを利用したアニメーション実装サンプル
